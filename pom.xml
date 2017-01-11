@@ -51,7 +51,7 @@
                         <manifest>
                             <addClasspath>true</addClasspath>
                             <classpathPrefix>lib/</classpathPrefix>
-                            <mainClass>com.gmail.mosoft521.hadoop.example.WordCount</mainClass>
+                            <mainClass>com.gmail.mosoft521.hadoop.example.WordCountV2</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
